@@ -30,7 +30,7 @@
 // Toda classe tem atributos (caracteristicas) e metodos (acoes)
 
 //Objeto - Instancia de uma classe
-using POO;
+//using POO;
 
 //Carro carro1 = new Carro();
 //carro1.modelo = "HB20";
@@ -63,7 +63,7 @@ using POO;
 //carros.Add(carro3);
 
 //*** Criando Objetos e Classes (25/03)
-using POO;
+//using POO;
 
 //Livro livro1 = new Livro();
 //livro1.titulo = "As trancas do rei careca";
@@ -97,29 +97,41 @@ using POO;
 //protected/internal - esse atributo/calsse/metodo so pode ser acessado por ele mesmo ou pela classe pai
 
 
-Aluno aluno1 = new Aluno();
+//Aluno aluno1 = new Aluno();
 
-aluno1.Nome = "Gustavo alencar";
-aluno1.Idade = 18;
-aluno1.Notafinal = 7.5;
+//aluno1.Nome = "Gustavo alencar";
+//aluno1.Idade = 18;
+//aluno1.Notafinal = 7.5;
 
-Aluno aluno2 = new Aluno();
-aluno2.Nome = "Alexandre Varzea";
-aluno2.Idade = 19;
-aluno2.Notafinal = 6;
+//Aluno aluno2 = new Aluno();
+//aluno2.Nome = "Alexandre Varzea";
+//aluno2.Idade = 19;
+//aluno2.Notafinal = 6;
 
-Console.WriteLine($"Aluno: {aluno2.Nome} Idade: {aluno2.Idade} Notafinal: {aluno2.Notafinal}");
+//Console.WriteLine($"Aluno: {aluno2.Nome} Idade: {aluno2.Idade} Notafinal: {aluno2.Notafinal}");
 
-Produto produto1 = new Produto();
-produto1.produto = "Camiseta";
-produto1.preco = 25.99;
-produto1.estoque = 5;
+//Produto produto1 = new Produto();
+//produto1.produto = "Camiseta";
+//produto1.preco = 25.99;
+//produto1.estoque = 5;
 
 
 
-Console.WriteLine(produto1.produto);
-Console.WriteLine(produto1.preco);
-Console.WriteLine(produto1.estoque);
+//Console.WriteLine(produto1.produto);
+//Console.WriteLine(produto1.preco);
+//Console.WriteLine(produto1.estoque);
+
+
+//using POO;
+
+//ContaBancaria contaBancaria1 = new ContaBancaria();
+
+//contaBancaria1.Depositar(150.00);
+//contaBancaria1.Sacar(50.00);
+//contaBancaria1.VerSaldo();
+
+//Console.WriteLine(contaBancaria1.VerSaldo());
+
 
 
 

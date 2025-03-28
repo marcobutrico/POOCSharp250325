@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Downloads\\POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|c:\\users\\fic\\downloads\\poo\\heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|solutionrelative:heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|c:\\users\\fic\\downloads\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|c:\\users\\fic\\downloads\\poo\\heranca\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|solutionrelative:heranca\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|c:\\users\\fic\\downloads\\poo\\heranca\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|solutionrelative:heranca\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|c:\\users\\fic\\downloads\\poo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|solutionrelative:heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|c:\\users\\fic\\downloads\\poo\\heranca\\carro combustao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|solutionrelative:heranca\\carro combustao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|c:\\users\\fic\\downloads\\poo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB36EA0-C396-4F1A-8F4C-ADE92593184E}|heranca\\heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D08FC-3E8C-4AAC-8CE7-B54715FF92FA}|POO\\POO.csproj|solutionrelative:poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
               "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\Program.cs",
               "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T22:47:33.174Z",
               "IsPinned": true,
@@ -48,19 +84,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pessoajuridica.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Pessoajuridica.cs",
+              "RelativeDocumentMoniker": "heranca\\Pessoajuridica.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Pessoajuridica.cs",
+              "RelativeToolTip": "heranca\\Pessoajuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:41:15.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoafisica.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Pessoafisica.cs",
+              "RelativeDocumentMoniker": "heranca\\Pessoafisica.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Pessoafisica.cs",
+              "RelativeToolTip": "heranca\\Pessoafisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:40:33.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Pessoa.cs",
+              "RelativeDocumentMoniker": "heranca\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Pessoa.cs",
+              "RelativeToolTip": "heranca\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:39:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carro combustao.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Carro combustao.cs",
+              "RelativeDocumentMoniker": "heranca\\Carro combustao.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Carro combustao.cs",
+              "RelativeToolTip": "heranca\\Carro combustao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:14:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carroeletrico.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Carroeletrico.cs",
+              "RelativeDocumentMoniker": "heranca\\Carroeletrico.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Carroeletrico.cs",
+              "RelativeToolTip": "heranca\\Carroeletrico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:13:42.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Carro.cs",
+              "RelativeDocumentMoniker": "heranca\\Carro.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Carro.cs",
+              "RelativeToolTip": "heranca\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:05:13.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Program.cs",
+              "RelativeDocumentMoniker": "heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\heranca\\Program.cs",
+              "RelativeToolTip": "heranca\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:59:07.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Funcionario.cs",
+              "RelativeDocumentMoniker": "POO\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\Funcionario.cs",
+              "RelativeToolTip": "POO\\Funcionario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:16:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "POO\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\ContaBancaria.cs",
+              "RelativeToolTip": "POO\\ContaBancaria.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:29:16.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Produto.cs",
               "RelativeDocumentMoniker": "POO\\Produto.cs",
               "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\Produto.cs",
               "RelativeToolTip": "POO\\Produto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:54:14.828Z"
+              "WhenOpened": "2025-03-26T22:54:14.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Aluno.cs",
               "RelativeDocumentMoniker": "POO\\Aluno.cs",
@@ -68,31 +222,34 @@
               "RelativeToolTip": "POO\\Aluno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:31:17.354Z"
+              "WhenOpened": "2025-03-26T22:31:17.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Livro.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Livro.cs",
               "RelativeDocumentMoniker": "POO\\Livro.cs",
               "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\Livro.cs",
               "RelativeToolTip": "POO\\Livro.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:42:55.77Z"
+              "WhenOpened": "2025-03-26T00:42:55.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Carro.cs",
               "RelativeDocumentMoniker": "POO\\Carro.cs",
               "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\Carro.cs",
               "RelativeToolTip": "POO\\Carro.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAqwDUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:04:35.08Z"
+              "WhenOpened": "2025-03-26T00:04:35.08Z",
+              "EditorCaption": ""
             }
           ]
         }

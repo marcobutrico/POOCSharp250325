@@ -17,7 +17,7 @@ namespace POO
 
         // nomenclatura
         //tudo que e privado tem que ter um sublinhado _
-        public string _modelo;
+        private string _modelo;
         public int anoFabricacao;
 
         //Metodos
